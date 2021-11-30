@@ -46,7 +46,8 @@
 }
 
 .featured--buttons {
-    margin-top: 15px;   
+    margin-top: 15px;
+    cursor: pointer;  
 }
 .featured--watchbutton,
 .featured--mylistbutton {
